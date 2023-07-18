@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T11:04:36 IST" name="Default suite" finished-at="2023-07-18T11:04:58 IST" duration-ms="21380">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T11:04:36 IST" name="Default test" finished-at="2023-07-18T11:04:58 IST" duration-ms="21380">
+      <class name="Joinus.joinus_script">
+        <test-method signature="verify()[pri:0, instance:Joinus.joinus_script@6c779568]" started-at="2023-07-18T11:04:37 IST" name="verify" finished-at="2023-07-18T11:04:58 IST" duration-ms="21254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+      </class> <!-- Joinus.joinus_script -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
